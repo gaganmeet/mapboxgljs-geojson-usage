@@ -1,0 +1,22 @@
+{
+    "name": "mapboxgljs-starter",
+    "version": "2.10.0",
+    "description": "",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+    },
+    "keywords": [],
+    "author": "Yasunori Kirimoto",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.8.2",
+        "vite": "^3.1.0"
+    },
+    "dependencies": {
+        "@types/mapbox-gl": "^2.7.5",
+        "geojson-vt": "^3.2.1",
+        "mapbox-gl": "2.10.0"
+    }
+}
