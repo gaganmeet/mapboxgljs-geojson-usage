@@ -29,6 +29,9 @@ Add an access token
 ```typescript
 mapboxgl.accessToken = 'pk.xxxxxxxxxx';
 ```
+```
+Add file with name seamlines.json in src
+```
 
 <br>
 
